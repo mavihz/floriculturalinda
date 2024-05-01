@@ -18,7 +18,7 @@ body {
     width: 200px;
     margin: 10px;
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 3px solid #918e8e;
     cursor: pointer;
 }
 
@@ -31,7 +31,7 @@ body {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #9c0606;
 }
 
 .back-button {
@@ -45,5 +45,5 @@ body {
 }
 
 .back-button:hover {
-    background-color: #999;
+    background-color: #ae141436;
 }
